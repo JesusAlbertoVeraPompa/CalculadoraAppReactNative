@@ -10,7 +10,7 @@ Aplicacion de calculadora movil desarrollada con React Native CLI + TypeScript.
 
 ## Estado actual
 
-- UI redisenada en estilo cyberpunk (neon magenta/cian).
+- UX redisenada en estilo cyberpunk (neon magenta/cian).
 - Hook de calculo con comentarios tecnicos claros y formato de display local (miles con `.` y decimal con `,`).
 - Hardening de firma Android aplicado.
 
@@ -26,15 +26,17 @@ Aplicacion de calculadora movil desarrollada con React Native CLI + TypeScript.
 ## Estructura principal
 
 ```txt
-src/
-  components/ButtonCalculadora.tsx
-  hooks/useCalculadora.ts
-  screens/CalculadoraScreen.tsx
-  theme/global-theme.ts
-__tests__/
-  App.test.tsx
-  ButtonCalculadora.test.tsx
-  useCalculadora.test.tsx
+ChatBunker/
+├── src/
+│   ├── components/ButtonCalculadora.tsx
+│   ├── hooks/useCalculadora.ts
+│   ├── screens/CalculadoraScreen.tsx
+│   └── theme/global-theme.ts
+├── __tests__/App.test.tsx
+├── App.tsx
+├── index.js
+├── package.json
+└── tsconfig.json
 ```
 
 ## Requisitos
