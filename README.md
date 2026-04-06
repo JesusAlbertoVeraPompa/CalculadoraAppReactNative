@@ -6,7 +6,7 @@ Aplicacion de calculadora movil desarrollada con React Native CLI + TypeScript.
 
 ![Pantalla principal](src/assets/screenshot/imagenAPK.jpeg)
 
-![Pantalla adicional](src/assets/screenshot/imagenCalculadora.jpeg)
+![Pantalla adicional](src/assets/screenshot/imagenCalculadora.jpg)
 
 ## Estado actual
 
