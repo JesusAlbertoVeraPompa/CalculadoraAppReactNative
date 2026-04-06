@@ -2,6 +2,12 @@
 
 Aplicacion de calculadora movil desarrollada con React Native CLI + TypeScript.
 
+## Capturas de pantalla
+
+![Pantalla principal](src/assets/screenshot/imagenAPK.jpeg)
+
+![Pantalla adicional](src/assets/screenshot/imagenCalculadora.jpeg)
+
 ## Estado actual
 
 - UI redisenada en estilo cyberpunk (neon magenta/cian).
