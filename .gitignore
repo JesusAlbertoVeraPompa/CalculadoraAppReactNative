@@ -1,4 +1,4 @@
-# OSX
+﻿# OSX
 #
 .DS_Store
 
@@ -72,3 +72,6 @@ yarn-error.log
 !.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Android signing secrets (local only)
+android/keystore.properties
